@@ -1,3 +1,9 @@
 fastapi
-unicorn
+uvicorn
 sqlalchemy
+psycopg2
+python-jose
+pydantic
+email-validator
+passlib
+python-multipart
